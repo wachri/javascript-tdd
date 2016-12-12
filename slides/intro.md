@@ -1,5 +1,5 @@
-# Modern frontend architecture
-(CSS)
+# Test driven development with JavaScript
+
 
 ---
 ## Christian Waldmann
