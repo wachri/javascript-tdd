@@ -13,7 +13,7 @@
 
 
 ```
-git clone https://github.com/wachri/javascript-tdd-slides.git
+git clone https://github.com/wachri/javascript-tdd.git
 
 cd tdd-setup
 

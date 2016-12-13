@@ -94,5 +94,18 @@ Here we start againe with our next requirements
 ![TDD global lifecycle](./slides/img/TDD_Global_Lifecycle.png) [By Xarawn - Own work, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=44782343)
 
 
+---
+### Some more words
+
+---
+> If you test something manually you can write a unit test instead!
+
+
+---
+> It can take a while before you reap the benefits of your (extra) work with the tests
+
+
+---
+> It's not only for you. Every one in your team can benefit from your tests
 
 
